@@ -1,2 +1,2 @@
 #SUPER HEROES
-This is the game about superheroes. Still a work in progress until Spiderman graduates high school.
+Welcome to the League of Champions! Choose your heroes (or villians) that you would like to face against in a fight for bragging rights! Place all the code in your python app to get started!
